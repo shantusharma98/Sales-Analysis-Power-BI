@@ -1,4 +1,4 @@
-# Sales Analysis (Power BI)
+# Sales & Performance Analysis (Power BI)
 
 ## 📌 Project Overview
 This project presents a comprehensive sales and operations analysis for **ShopNest**, an e-commerce marketplace. The analysis is built using **Power BI** and focuses on understanding revenue trends, product performance, delivery efficiency, customer behavior, and seasonal sales patterns through interactive dashboards and drill-through analysis.
@@ -18,7 +18,7 @@ The project demonstrates how data visualization and analytics can support data-d
 
 ---
 
-## 📊 Key Dashboards & Analysis
+## 📊 Dashboard & Key Analysis
 
 ### 1. Top 10 Product Categories by Total Sales
 - Identifies high-revenue categories such as **Health & Beauty**, **Watches & Gifts**, and **Bed Bath Table**
@@ -79,7 +79,7 @@ Although the business context mentions Portugal, the geographic data reflects **
 ---
 
 ## ✅ Conclusion
-The ShopNest Sales Analysis demonstrates how interactive dashboards and drill-through analysis can uncover meaningful business insights. The project highlights the importance of operational efficiency, logistics planning, quality control, and regional expansion to support sustainable growth in e-commerce platforms.
+The Sales Analysis Project demonstrates how interactive dashboards and drill-through analysis can uncover meaningful business insights. The project highlights the importance of operational efficiency, logistics planning, quality control, and regional expansion to support sustainable growth in e-commerce platforms.
 
 ---
 
